@@ -19,7 +19,7 @@ Eine einfache, aromatische und wärmende Suppe aus frischem Kürbis – perfekt 
 
 Den runden orangefarbenen Kürbis schälen, halbieren und die Kerne sowie Fasern entfernen.
 
-![Schritt 1 – Kürbis vorbereiten](img/step1.jpg)
+  <img src="img/step1.jpg" alt="Schritt 1 – Kürbis vorbereiten" width="50%">
 
 ---
 
@@ -27,7 +27,7 @@ Den runden orangefarbenen Kürbis schälen, halbieren und die Kerne sowie Fasern
 
 Den geschälten Kürbis in gleichmäßige Stücke schneiden.
 
-![Schritt 2 – Kürbis schneiden](img/step2.jpg)
+<img src="img/step2.jpg" alt="Schritt 2 – Kürbis schneiden" width="50%">
 
 ---
 
@@ -35,7 +35,7 @@ Den geschälten Kürbis in gleichmäßige Stücke schneiden.
 
 Etwas Öl in eine Pfanne geben und die Kürbisstücke darin anbraten, bis sie leicht gebräunt und weich sind.
 
-![Schritt 3 – Kürbis anbraten](img/step3.jpg)
+<img src="img/step3.jpg" alt="Schritt 3 – Kürbis anbraten" width="50%">
 
 ---
 
@@ -44,7 +44,7 @@ Etwas Öl in eine Pfanne geben und die Kürbisstücke darin anbraten, bis sie le
 Die angebratenen Kürbisstücke in einen Topf geben, mit heißem Wasser bedecken und etwas Salz hinzufügen.  
 Bei mittlerer Hitze kochen, bis der Kürbis weich ist.
 
-![Schritt 4 – Kürbis kochen](img/step4.jpg)
+<img src="img/step4.jpg" alt="Schritt 4 – Kürbis kochen" width="50%">
 
 ---
 
@@ -53,7 +53,7 @@ Bei mittlerer Hitze kochen, bis der Kürbis weich ist.
 Wenn der Kürbis weich ist, mit einem Löffel leicht zerdrücken oder pürieren, bis die Suppe cremig wird.  
 Zum Schluss Salz, Pfeffer und Frühlingszwiebeln hinzufügen und gut umrühren.
 
-![Schritt 5 – Würzen und servieren](img/step5.jpg)
+<img src="img/step5.jpg" alt="Schritt 5 – Würzen und servieren" width="50%">
 
 ---
 
@@ -61,3 +61,5 @@ Zum Schluss Salz, Pfeffer und Frühlingszwiebeln hinzufügen und gut umrühren.
 
 Die Kürbissuppe ist nun cremig, duftend und servierbereit.  
 Am besten heiß genießen – eventuell mit etwas Brot dazu. 🥖
+
+**Guten Appetit! 🍽️**

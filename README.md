@@ -10,7 +10,7 @@ Hier findest du einfache, gesunde und liebevoll dokumentierte Gerichte – jedes
 | 🍲 Kategorie | 📖 Rezeptname        | 🔗 Link                                             |
 | ------------ | -------------------- | --------------------------------------------------- |
 | 🥣 Suppe     | Kürbissuppe          | [Zum Rezept →](kuerbissuppe/kuerbissuppe_rezept.md) |
-| 🍅 Suppe     | Tomatensuppe         | [Zum Rezept →](tomatensuppe/tomatensuppe_rezept.md) |
+| 🍅 Suppe     | Tomatensuppe         | _coming soon_                                       |
 | 🍝 Pasta     | Spaghetti Carbonara  | _coming soon_                                       |
 | 🥗 Salat     | Frischer Sommersalat | _coming soon_                                       |
 
