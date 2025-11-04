@@ -2,7 +2,7 @@
 
 Eine einfache, aromatische und wärmende Suppe aus frischem Kürbis – perfekt für kalte Tage.
 
-## 🧄 Zutaten
+## 🧄 Zutate
 
 - Ein halber Hokkaidokürbisse(runder oranger Kürbis)
 - Etwas Öl zum Anbraten

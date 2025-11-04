@@ -20,7 +20,9 @@ Hier findest du einfache, gesunde und liebevoll dokumentierte Gerichte – jedes
 
 Diese Sammlung dient nicht nur als persönliches Kochbuch, sondern auch als Beispielprojekt für Markdown-Struktur, Bildorganisation und Git-Versionierung.
 
-📦 **Struktur:**  
+📦 **Struktur:**
+
+```
 my-recipe-collection/
 ├── kuerbissuppe/
 │ ├── img/
@@ -28,6 +30,7 @@ my-recipe-collection/
 ├── tomatensuppe/
 │ └── tomatensuppe_rezept.md
 └── README.md
+```
 
 🪄 **Features:**
 
